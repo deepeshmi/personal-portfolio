@@ -4,7 +4,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="max-w-5xl mx-auto px-6 py-20 text-center">
         <h1 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-4">
-          Hi, I'm <span className="text-blue-600">Your Name</span>
+          Hi, I'm <span className="text-blue-600">Deepesh Mishra</span>
         </h1>
         <p className="text-lg text-gray-600 max-w-2xl mx-auto mb-8">
           A passionate web developer who loves building modern and fast websites using Next.js.

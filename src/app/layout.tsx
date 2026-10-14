@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Your Name | Portfolio",
+  title: "Deepesh Mishra | Portfolio",
   description: "Personal portfolio and blog",
 };
 
